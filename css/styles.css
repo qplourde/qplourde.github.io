@@ -1,0 +1,45 @@
+
+  body {
+    color: blue;
+    background-color: pink;
+    font-family: 'Roboto Condensed', sans-serif;
+    }
+
+h1 {
+  color: yellow;
+  font-size: 35px;
+}
+header {
+  border: 1px solid darkblue;
+  background-image: url("https://www.onlyhangers.com/218-thickbox_default/metal-top-hanger.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+img {
+    border: 2px solid black;
+    padding: 10px 5px 10px 5px; /*top right bottom left*/
+    margin: 20px;
+    width: 500px;
+}
+
+span.highlight {
+  background-color: green;
+  font-weight: bold;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+
+}
+
+.highlight {
+  background-color: purple;
+  font-weight: bold;
+}
+
+
+#Big {
+  font-size: 50px;
+}
